@@ -13,3 +13,17 @@ C:\Users\Sam\Documents\Advent of code 23\Advent of code 2\Advent of code 2\obj\D
 C:\Users\Sam\Documents\Advent of code 23\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.pdb
 C:\Users\Sam\Documents\Advent of code 23\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.genruntimeconfig.cache
 C:\Users\Sam\Documents\Advent of code 23\Advent of code 2\Advent of code 2\obj\Debug\net6.0\ref\Advent of code 2.dll
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\bin\Debug\net6.0\Advent of code 2.exe
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\bin\Debug\net6.0\Advent of code 2.deps.json
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\bin\Debug\net6.0\Advent of code 2.runtimeconfig.json
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\bin\Debug\net6.0\Advent of code 2.dll
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\bin\Debug\net6.0\Advent of code 2.pdb
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.AssemblyInfoInputs.cache
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.AssemblyInfo.cs
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.csproj.CoreCompileInputs.cache
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.dll
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\refint\Advent of code 2.dll
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.pdb
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\Advent of code 2.genruntimeconfig.cache
+C:\Users\samcrer\Documents\GitHub\advent-of-code-2023\Advent of code 2\Advent of code 2\obj\Debug\net6.0\ref\Advent of code 2.dll

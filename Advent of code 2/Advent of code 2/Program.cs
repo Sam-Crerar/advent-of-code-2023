@@ -1,20 +1,18 @@
 ﻿using System.Linq.Expressions;
 
-int redLimit = 12;
-int greenLimit = 13;
-int blueLimit = 14;
 
 int total = 0;
 int counter = 1;
 using (StreamReader reader = new StreamReader("input.txt"))
 {
-    
     while (!reader.EndOfStream)
     {
         string line = reader.ReadLine();
         line = line.Split(':')[1];
         string[] hands = line.Split(';');
-        bool add = true;
+        int redLimit = 0;
+        int greenLimit = 0;
+        int blueLimit = 0;
         for (int i = 0; i < hands.Count(); i++)
         {
             string[] pulls = hands[i].Split(',');
@@ -28,19 +26,19 @@ using (StreamReader reader = new StreamReader("input.txt"))
                     case "red":
                         if (int.Parse(components[0]) > redLimit)
                         {
-                            add = false;
+                            redLimit = int.Parse(components[0]);
                         }
                         break;
                     case "green":
                         if (int.Parse(components[0]) > greenLimit)
                         {
-                            add = false;
+                            greenLimit = int.Parse(components[0]);
                         }
                         break;
                     case "blue":
                         if (int.Parse(components[0]) > blueLimit)
                         {
-                            add = false;
+                            blueLimit = int.Parse(components[0]);
                         }
                         break;
                     default:
@@ -49,11 +47,8 @@ using (StreamReader reader = new StreamReader("input.txt"))
                 }
             }
         }
-        if (add)
-        {
-            total += counter;
-        }
-        counter++;
+
+        total += (redLimit * greenLimit * blueLimit);
     }
 }
 Console.WriteLine(total);
